@@ -58,9 +58,9 @@ typings/
 .env
 
 # data
-data/database.db
-data/config.json
+#data/database.db
+#data/config.json
 data/log*.txt
-data/state.json
+#data/state.json
 data/log
-data-backup/
+#data-backup/

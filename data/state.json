@@ -1,0 +1,720 @@
+{
+    "0x00158d00016da674": {
+        "state_left": "OFF",
+        "linkquality": 65,
+        "device": {
+            "ieeeAddr": "0x00158d00016da674",
+            "friendlyName": "first_floor/bathroom/lights/1",
+            "type": "Router",
+            "nwkAddr": 26417,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_right": "OFF"
+    },
+    "0x00158d0001f42546": {
+        "state_left": "OFF",
+        "linkquality": 57,
+        "device": {
+            "ieeeAddr": "0x00158d0001f42546",
+            "friendlyName": "first_floor/toilet/lights/1",
+            "type": "Router",
+            "nwkAddr": 58780,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_right": "OFF"
+    },
+    "0x00158d00016da596": {
+        "state_right": "OFF",
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d00016da596",
+            "friendlyName": "first_floor/children_room/lights/1",
+            "type": "Router",
+            "nwkAddr": 10883,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_left": "OFF"
+    },
+    "0x00158d0001f3f9f5": {
+        "state_left": "OFF",
+        "linkquality": 65,
+        "device": {
+            "ieeeAddr": "0x00158d0001f3f9f5",
+            "friendlyName": "first_floor/bedroom/lights/1",
+            "type": "Router",
+            "nwkAddr": 16427,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_right": "OFF"
+    },
+    "0x00158d000171541c": {
+        "state_left": "OFF",
+        "linkquality": 76,
+        "device": {
+            "ieeeAddr": "0x00158d000171541c",
+            "friendlyName": "first_floor/bedroom/lights/2",
+            "type": "Router",
+            "nwkAddr": 28695,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_right": "OFF"
+    },
+    "0x00124b001b7b25dc": {
+        "state": true,
+        "linkquality": 13,
+        "device": {
+            "ieeeAddr": "0x00124b001b7b25dc",
+            "friendlyName": "ground_floor/living_room/routers/1",
+            "type": "Router",
+            "nwkAddr": 2824,
+            "manufId": 4447,
+            "manufName": "LUMI",
+            "powerSource": "Mains (single phase)",
+            "modelId": "lumi.router",
+            "status": "online"
+        }
+    },
+    "0x00124b001b7b302a": {
+        "state": false,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00124b001b7b302a",
+            "friendlyName": "ground_floor/kitchen/routers/1",
+            "type": "Router",
+            "nwkAddr": 6897,
+            "manufId": 4447,
+            "manufName": "LUMI",
+            "powerSource": "Mains (single phase)",
+            "modelId": "lumi.router",
+            "status": "online"
+        }
+    },
+    "0x00124b0001570939": {
+        "state": false,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00124b0001570939",
+            "friendlyName": "basement_floor/garage/routers/1",
+            "type": "Router",
+            "nwkAddr": 20937,
+            "manufId": 4447,
+            "manufName": "LUMI",
+            "powerSource": "Mains (single phase)",
+            "modelId": "lumi.router",
+            "status": "online"
+        }
+    },
+    "0x00158d0001f50f3e": {
+        "state_right": "ON",
+        "linkquality": 42,
+        "device": {
+            "ieeeAddr": "0x00158d0001f50f3e",
+            "friendlyName": "first_floor/working_room/lights/2",
+            "type": "Router",
+            "nwkAddr": 51598,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_left": "ON"
+    },
+    "0x00124b000e896ccc": {
+        "state": false,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00124b000e896ccc",
+            "friendlyName": "first_floor/bathroom/routers/1",
+            "type": "Router",
+            "nwkAddr": 29387,
+            "manufId": 4447,
+            "manufName": "LUMI",
+            "powerSource": "Mains (single phase)",
+            "modelId": "lumi.router",
+            "status": "online"
+        }
+    },
+    "0x00158d0001f57db6": {
+        "state_left": "OFF",
+        "linkquality": 60,
+        "device": {
+            "ieeeAddr": "0x00158d0001f57db6",
+            "friendlyName": "basement_floor/garage/lights/1",
+            "type": "Router",
+            "nwkAddr": 47993,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_right": "OFF"
+    },
+    "0x00158d000153a612": {
+        "battery": 99,
+        "voltage": 3005,
+        "linkquality": 55,
+        "device": {
+            "ieeeAddr": "0x00158d000153a612",
+            "friendlyName": "first_floor/children_room/contact_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 56754,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.sensor_magnet",
+            "status": "online"
+        },
+        "contact": true
+    },
+    "0x00158d00015848ca": {
+        "battery": 99,
+        "voltage": 3025,
+        "linkquality": 15,
+        "device": {
+            "ieeeAddr": "0x00158d00015848ca",
+            "friendlyName": "first_floor/bedroom/contact_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 4219,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.sensor_magnet",
+            "status": "online"
+        },
+        "contact": true
+    },
+    "0x00158d00016da703": {
+        "state_right": "OFF",
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d00016da703",
+            "friendlyName": "ground_floor/kitchen/lights/2",
+            "type": "Router",
+            "nwkAddr": 29437,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_left": "OFF"
+    },
+    "0x00158d0001660cc4": {
+        "state_right": "ON",
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d0001660cc4",
+            "friendlyName": "ground_floor/kitchen/lights/1",
+            "type": "Router",
+            "nwkAddr": 3186,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_left": "OFF"
+    },
+    "0x00158d0001660cb2": {
+        "state_left": "OFF",
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d0001660cb2",
+            "friendlyName": "ground_floor/living_room/lights/3",
+            "type": "Router",
+            "nwkAddr": 3526,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_right": "ON"
+    },
+    "0x00158d00016da6ca": {
+        "state_right": "OFF",
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d00016da6ca",
+            "friendlyName": "basement_floor/stock_room/lights/1",
+            "type": "Router",
+            "nwkAddr": 18442,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_left": "OFF"
+    },
+    "0x00158d0001715502": {
+        "state_right": "OFF",
+        "linkquality": 68,
+        "device": {
+            "ieeeAddr": "0x00158d0001715502",
+            "friendlyName": "ground_floor/living_room/lights/2",
+            "type": "Router",
+            "nwkAddr": 47767,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_left": "OFF"
+    },
+    "0x00158d0000e878a5": {
+        "temperature": 10.61,
+        "linkquality": 65,
+        "device": {
+            "ieeeAddr": "0x00158d0000e878a5",
+            "friendlyName": "ground_floor/kitchen/weather_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 26687,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.sens",
+            "status": "online"
+        },
+        "humidity": 65.25,
+        "battery": 37,
+        "voltage": 2975
+    },
+    "0x00158d0001b7ef34": {
+        "battery": 99,
+        "voltage": 3005,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d0001b7ef34",
+            "friendlyName": "ground_floor/living_room/weather_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 55682,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.weather",
+            "status": "online"
+        },
+        "temperature": 21.95,
+        "humidity": 46.99,
+        "pressure": 1001
+    },
+    "0x00158d00016cf2fb": {
+        "state_right": "OFF",
+        "linkquality": 65,
+        "device": {
+            "ieeeAddr": "0x00158d00016cf2fb",
+            "friendlyName": "ground_floor/toilet/lights/1",
+            "type": "Router",
+            "nwkAddr": 30795,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_left": "ON"
+    },
+    "0x00158d000130ceb6": {
+        "battery": 99,
+        "voltage": 3005,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d000130ceb6",
+            "friendlyName": "ground_floor/living_room/contact_sensors/2",
+            "type": "EndDevice",
+            "nwkAddr": 26737,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.sensor_magnet",
+            "status": "online"
+        }
+    },
+    "0x00158d000112fd18": {
+        "battery": 99,
+        "voltage": 3015,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d000112fd18",
+            "friendlyName": "ground_floor/living_room/contact_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 41062,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.sensor_magnet",
+            "status": "online"
+        },
+        "contact": true
+    },
+    "0x00158d0000efa1aa": {
+        "battery": 99,
+        "voltage": 3025,
+        "linkquality": 60,
+        "device": {
+            "ieeeAddr": "0x00158d0000efa1aa",
+            "friendlyName": "ground_floor/kitchen/contact_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 61846,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.sensor_magnet",
+            "status": "online"
+        }
+    },
+    "0x00158d00010dca57": {
+        "contact": true,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d00010dca57",
+            "friendlyName": "basement_floor/garage/contact_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 9261,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.sensor_magnet",
+            "status": "online"
+        },
+        "battery": 99,
+        "voltage": 3015
+    },
+    "0x00158d00016da64f": {
+        "state_left": "ON",
+        "linkquality": 47,
+        "device": {
+            "ieeeAddr": "0x00158d00016da64f",
+            "friendlyName": "first_floor/working_room/lights/1",
+            "type": "Router",
+            "nwkAddr": 29106,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_right": "OFF"
+    },
+    "0x00158d0001660bab": {
+        "state_right": "OFF",
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d0001660bab",
+            "friendlyName": "first_floor/corridor/lights/1",
+            "type": "Router",
+            "nwkAddr": 20126,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_left": "OFF"
+    },
+    "0x00124b000e896796": {
+        "state": false,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00124b000e896796",
+            "friendlyName": "ground_floor/living_room/routers/1",
+            "type": "Router",
+            "nwkAddr": 23006,
+            "manufId": 4447,
+            "manufName": "LUMI",
+            "powerSource": "Mains (single phase)",
+            "modelId": "lumi.router",
+            "status": "online"
+        }
+    },
+    "0x00158d0001f3fafb": {
+        "state_left": "OFF",
+        "linkquality": 0,
+        "device": {
+            "ieeeAddr": "0x00158d0001f3fafb",
+            "friendlyName": "ground_floor/garderobe/lights/1",
+            "type": "Router",
+            "nwkAddr": 56052,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_right": "OFF"
+    },
+    "0x00158d0001f50f8f": {
+        "state_left": "OFF",
+        "linkquality": 0,
+        "device": {
+            "ieeeAddr": "0x00158d0001f50f8f",
+            "friendlyName": "ground_floor/living_room/lights/1",
+            "type": "Router",
+            "nwkAddr": 18883,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "DC Source",
+            "modelId": "lumi.ctrl_neutral2",
+            "status": "online"
+        },
+        "state_right": "OFF"
+    },
+    "0x00158d00012ab0e6": {
+        "contact": true,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d00012ab0e6",
+            "friendlyName": "ground_floor/entrance/contact_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 26300,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.sensor_magnet",
+            "status": "online"
+        },
+        "battery": 99,
+        "voltage": 3025
+    },
+    "0x00158d0001dad094": {
+        "contact": true,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d0001dad094",
+            "friendlyName": "first_floor/working_room/contact_sensors/2",
+            "type": "EndDevice",
+            "nwkAddr": 65359,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.sensor_magnet.aq2",
+            "status": "online"
+        },
+        "battery": 99,
+        "voltage": 3025
+    },
+    "0x00158d0001e41cc9": {
+        "contact": true,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d0001e41cc9",
+            "friendlyName": "first_floor/working_room/contact_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 62909,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.sensor_magnet.aq2",
+            "status": "online"
+        },
+        "battery": 100,
+        "voltage": 3035
+    },
+    "0x00158d0001b7eeef": {
+        "temperature": 22.99,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d0001b7eeef",
+            "friendlyName": "first_floor/children_room/weather_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 29761,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.weather",
+            "status": "online"
+        },
+        "humidity": 53.46,
+        "pressure": 1001,
+        "battery": 99,
+        "voltage": 3005
+    },
+    "0x00158d0001fa7063": {
+        "pressure": 1001.96,
+        "linkquality": 65,
+        "device": {
+            "ieeeAddr": "0x00158d0001fa7063",
+            "friendlyName": "basement_floor/garage/weather_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 7274,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.weather",
+            "status": "online"
+        },
+        "humidity": 56.72,
+        "temperature": 10.03,
+        "battery": 55,
+        "voltage": 2995
+    },
+    "0x00158d0001b7ef12": {
+        "temperature": 22.05,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d0001b7ef12",
+            "friendlyName": "first_floor/working_room/weather_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 59104,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.weather",
+            "status": "online"
+        },
+        "humidity": 50.37,
+        "pressure": 1001,
+        "battery": 37,
+        "voltage": 2975
+    },
+    "0x00158d0001dad285": {
+        "battery": 42,
+        "voltage": 2985,
+        "linkquality": 65,
+        "device": {
+            "ieeeAddr": "0x00158d0001dad285",
+            "friendlyName": "ground_floor/toilet/contact_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 31840,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.sensor_magnet.aq2",
+            "status": "online"
+        },
+        "contact": true
+    },
+    "0x00158d0000fcdbbe": {
+        "temperature": 23.09,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d0000fcdbbe",
+            "friendlyName": "first_floor/bath_room/weather_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 22651,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.sens",
+            "status": "online"
+        },
+        "humidity": 55.99,
+        "battery": 100,
+        "voltage": 3035
+    },
+    "0x00158d0000fd8e15": {
+        "temperature": 20.63,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d0000fd8e15",
+            "friendlyName": "first_floor/bedroom/weather_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 6650,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.sens",
+            "status": "online"
+        },
+        "humidity": 53.11,
+        "battery": 42,
+        "voltage": 2985
+    },
+    "0x00158d0001583612": {
+        "contact": true,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d0001583612",
+            "friendlyName": "first_floor/bedroom/contact_sensors/2",
+            "type": "EndDevice",
+            "nwkAddr": 4132,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.sensor_magnet",
+            "status": "online"
+        },
+        "battery": 99,
+        "voltage": 3025
+    },
+    "0x00158d0000e877fe": {
+        "temperature": -10.55,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d0000e877fe",
+            "friendlyName": "ground_floor/kitchen/weather_sensors/2",
+            "type": "EndDevice",
+            "nwkAddr": 19514,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.sens",
+            "status": "online"
+        },
+        "humidity": 43.6,
+        "battery": 42,
+        "voltage": 2985
+    },
+    "0x00158d00020184de": {
+        "temperature": 13.27,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d00020184de",
+            "friendlyName": "basement_floor/stock_room/weather_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 42097,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.weather",
+            "status": "online"
+        },
+        "humidity": 49.24,
+        "pressure": 1002,
+        "battery": 42,
+        "voltage": 2985
+    },
+    "0x00158d000201b818": {
+        "temperature": -2.91,
+        "linkquality": 63,
+        "device": {
+            "ieeeAddr": "0x00158d000201b818",
+            "friendlyName": "outdoor/front/weather_sensors/1",
+            "type": "EndDevice",
+            "nwkAddr": 52056,
+            "manufId": 4151,
+            "manufName": "LUMI",
+            "powerSource": "Battery",
+            "modelId": "lumi.weather",
+            "status": "online"
+        },
+        "humidity": 85.34,
+        "pressure": 1001,
+        "battery": 23,
+        "voltage": 2945
+    }
+}
